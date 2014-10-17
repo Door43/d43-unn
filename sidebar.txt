@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[unn:home|Door43 (unn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-unn|d43-unn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-unn/archive/master.zip|d43-unn.zip]]
+
+**Recent Changes**
+{{changes>ns = unn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/unn|Ethnologue data]]
+
